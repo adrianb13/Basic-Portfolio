@@ -1,0 +1,13 @@
+body {
+    width: 960px;
+    }
+    .alignleft { 
+        border: 1px teal;}
+    .alignright { 
+        float: right;
+        margin-left: 10px;
+        font-size: 70%;
+    }
+section {
+    background-color: lightblue
+}
