@@ -19,6 +19,7 @@ body {
     }
     .leftmargin {
         margin-left: 35px;
+        font-family: 'Helvetica Neue';
     }
     .hangman {
         background: url(../images/Hangman.jpg) no-repeat;
@@ -76,6 +77,26 @@ body {
         color: white;
         text-align: center;
     }
+input[type=text] {
+    border: 2px solid #dddddd;
+    font: #777777;
+    outline: none;
+    width: 890px;
+    height: 20px
+}
+input[type=submit] {
+    background-color: #4aaaa5;
+    border: none;
+    color: #ffffff;
+    padding: 5px 20px;
+}
+textarea {
+    border: 2px solid #dddddd;
+    height: 5em;
+    width: 888px;
+    outline: none;
+
+}
 header {
     font-family: 'Times';
     background-color: #ffffff;
