@@ -31,13 +31,6 @@ body {
         border: 2px solid #4aaaa5;
         margin-left: 35px;
     }
-    .containerright {
-        float: right; 
-        text-align: center;
-        color: #777777;
-        border: 2px solid #4aaaa5;
-        margin-right: 35px;
-    }
     .textbox {
         position: relative;
         width: 100%;
@@ -46,7 +39,8 @@ body {
         transform: translate(-50%,0%);
         border: 2px solid #4aaaa5;
         background-color: #4aaaa5;
-        color: #ffffff;        
+        color: #ffffff;
+               
     }
     .floatright {
         float: right;
