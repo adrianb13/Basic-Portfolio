@@ -119,8 +119,13 @@ header {
     }
     .alignright { 
         float: right;
-        margin-right: 30px;
+        margin-right: 10px;
+        margin-left: 10px;
         font-size: 60%;
+    }
+    .borderleft {
+        border-left: 1px solid #cccccc;
+        padding-left: 19px;
     }
     .bottomborder {
         border-bottom: 2px solid #dddddd;
