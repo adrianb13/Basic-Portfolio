@@ -4,10 +4,6 @@ body {
     margin: 0;
     padding: 0;
 }
-h2 {
-    margin: 0;
-    
-}
     a:link, a:visited, a:hover, a:active {
         text-decoration: none;
         color: #777777;
@@ -73,12 +69,12 @@ h2 {
         font-size: 130%;    
     }
     .footer {
-        border-top: 2px solid #4aaaa5;
+        border-top: 5px solid #4aaaa5;
         position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
-        height: 30px;
+        padding-top: 30px;
         background-color: #666666;
         color: white;
         text-align: center;
@@ -101,7 +97,6 @@ textarea {
     height: 5em;
     width: 888px;
     outline: none;
-
 }
 header {
     font-family: 'Times';
@@ -109,7 +104,6 @@ header {
     border-bottom: 2px solid #cccccc;
     height: 50px;  
     width: 100%;
-    
 }
     .alignleft {
         width: 180px; 
@@ -117,16 +111,14 @@ header {
         background-color: #4aaaa5;
         color: white;
         text-align: center; 
-        left: 65px;
         position: absolute;
         top: 0;
     }
     .alignright { 
         float: right;
-        margin-right: 10px;
         margin-left: 10px;
         font-size: 60%;
-        padding-top: 15px;
+        padding-top: 16px;
     }
     .borderleft {
         border-left: 1px solid #cccccc;
@@ -134,10 +126,14 @@ header {
     }
     .bottomborder {
         border-bottom: 2px solid #dddddd;
-        padding-bottom: 25px;
+        padding-bottom: 15px;
         margin-left: 35px;
         margin-right: 35px;
     }
+h2 {
+        margin: 0 auto 0 auto;
+        width: 960px;
+}
 p {
     margin-left: 35px;
     margin-right: 35px;
