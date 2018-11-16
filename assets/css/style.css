@@ -10,7 +10,7 @@ body {
         margin: 10px; 
     }
     .box {
-        margin-top: -11px;
+        margin-top: -25px;
         margin-left: auto;
         margin-right: auto;
         width: 956px;
@@ -52,7 +52,6 @@ body {
         float: left;
         width: 270px;
         height: 180px;
-        
         display: flex;
         align-items: center;
         justify-content: center;
@@ -85,7 +84,8 @@ input[type=text] {
     font: #777777;
     outline: none;
     width: 890px;
-    height: 20px
+    height: 20px;
+    margin: 5px 0 12px 0;
 }
 input[type=submit] {
     background-color: #4aaaa5;
@@ -98,6 +98,7 @@ textarea {
     height: 5em;
     width: 888px;
     outline: none;
+    margin-top: 5px;
 }
 header {
     font-family: 'Times';
@@ -120,8 +121,9 @@ header {
     .alignright { 
         float: right;
         margin-left: 10px;
-        font: 60% bold;
-        padding-top: 16px;
+        font-size: 60%;
+        font-weight: bold;
+        padding-top: 17px;
     }
     .borderleft {
         border-left: 1px solid #cccccc;
