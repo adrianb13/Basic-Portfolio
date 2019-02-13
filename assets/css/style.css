@@ -57,6 +57,16 @@ body {
         background-size: 270px 180px;
         background-position: center;
     }
+    .concert {
+        background: url(../images/Concert.jpg) no-repeat;
+        background-size: 270px 180px;
+        background-position: center;
+    }
+    .senate {
+        background: url(../images/USFlag.png) no-repeat;
+        background-size: 270px 180px;
+        background-position: center;
+    }
     .float {
         float: left;
         width: 270px;
