@@ -66,8 +66,11 @@ body {
         background: url(../images/Box.jpg) no-repeat;
         background-size: 270px 180px;
         background-position: center;
-        border: 1px solid rgb(148, 148, 148);
-        border-radius: 25px;        
+    }
+    .finder {
+        background: url(../images/Finder.jpg) no-repeat;
+        background-size: 270px 180px;
+        background-position: center;
     }
     .senate {
         background: url(../images/USFlag.png) no-repeat;
