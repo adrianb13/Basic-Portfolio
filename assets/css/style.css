@@ -57,6 +57,11 @@ body {
         background-size: 270px 180px;
         background-position: center;
     }
+    .senate {
+        background: url(../images/USFlag.png) no-repeat;
+        background-size: 270px 180px;
+        background-position: center;
+    }
     .concert {
         background: url(../images/Concert.jpg) no-repeat;
         background-size: 270px 180px;
@@ -72,8 +77,8 @@ body {
         background-size: 270px 180px;
         background-position: center;
     }
-    .senate {
-        background: url(../images/USFlag.png) no-repeat;
+    .burger {
+        background: url(../images/burger.png) no-repeat;
         background-size: 270px 180px;
         background-position: center;
     }
